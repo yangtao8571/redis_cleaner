@@ -1,0 +1,1 @@
+java -jar redis_cleaner-1.0-SNAPSHOT.jar
